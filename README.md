@@ -10,6 +10,32 @@ The repository includes applications of different difficulty levels, allowing de
 - **🔵 Intermediate Apps**: Apps that incorporate more complex features like navigation, state management, and API integration.
 - **🟣 Advanced Apps**: Advanced implementations demonstrating the use of custom UI components, performance optimization, and integration with other libraries.
 
+<!---
+<details>
+  <summary>🟢 Beginner Apps</summary>
+  
+  - **Counter App**: A simple app with increment and reset functionality to understand state management.
+  - **Todo List**: A basic to-do list app demonstrating list rendering and user input handling.
+  - **Basic Calculator**: A lightweight calculator showcasing user interaction with Jetpack Compose components.
+</details>
+
+<details>
+  <summary>🔵 Intermediate Apps</summary>
+  
+  - **Weather App**: Fetch and display real-time weather data using REST APIs.
+  - **Notes App**: A note-taking app with local database integration (Room) and CRUD operations.
+  - **E-Commerce UI**: A beautifully designed e-commerce app with multi-screen navigation and animations.
+</details>
+
+<details>
+  <summary>🟣 Advanced Apps</summary>
+  
+  - **News Aggregator**: An app that fetches and categorizes news articles using APIs, with offline support.
+  - **Fitness Tracker**: A fitness tracking app with sensor integration and advanced UI components.
+  - **Streaming Platform UI**: A Netflix-like UI with complex layouts, performance optimization, and dynamic data.
+</details>
+-->
+
 ## 🌟 Features
 
 - 🧩 Modern UI components powered by Jetpack Compose
