@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JetBankDatabase</string>
+    <string name="search_by_city">Search</string>
+    <string name="try_again">Try again</string>
+    <string name="no_search_data_found">No search data found.</string>
+    <string name="no_internet_connection">No internet conntection.</string>
+    <string name="no_internet_connection_description">Please control your internet connection.</string>
+    <string name="city">City: </string>
+    <string name="district">District: </string>
+    <string name="bank_branch">Bank Branch: </string>
+    <string name="bank_type">Bank Type: </string>
+    <string name="bank_code">Bank Code</string>
+    <string name="address_name">Address Name: </string>
+    <string name="address">Address: </string>
+    <string name="postal_code">Postal Code</string>
+    <string name="on_off_line">On/Off Line: </string>
+    <string name="on_off_site">On/Off Site: </string>
+    <string name="region_coordinator">Region Coordinator: </string>
+    <string name="nearest_atm">Nearest ATM: </string>
+</resources>
