@@ -37,7 +37,7 @@ Feel free to contribute to the repository by adding more applications, fixing bu
 
 1. Fork the repository
 2. Create a new branch
-3. Make your changes
+3. Make add your android jetpack compose project
 4. Submit a pull request
 
 ## 📄 License
