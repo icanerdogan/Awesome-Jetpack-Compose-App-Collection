@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992246004800",
+    "project_id": "contacts-app-95ef3",
+    "storage_bucket": "contacts-app-95ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992246004800:android:e199fb309c84e56f6633a5",
+        "android_client_info": {
+          "package_name": "com.ibrahimcanerdogan.contactsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-jdcyYacsBQzXwUJy1KMtIgYgr4Obpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
