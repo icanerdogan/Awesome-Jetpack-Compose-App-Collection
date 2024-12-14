@@ -50,6 +50,14 @@ The repository includes applications of different difficulty levels, allowing de
 </details>
 
 <details open>
+  <summary><h3>JetPortfolio</h3></summary>
+  
+  JetPortfolio - 1            |  JetPortfolio - 2
+  :-------------------------:|:-------------------------:
+  ![JetPortfolio - 1](https://github.com/user-attachments/assets/f2bfe2d9-f142-49fb-aee5-83b7b433056c) | ![JetPortfolio - 2](https://github.com/user-attachments/assets/538384b7-2294-475c-a814-84216042c337)
+</details>
+
+<details open>
   <summary><h3>JetBankDatabase</h3></summary>
   
   JetBankDatabase - 1            |  JetBankDatabase - 2
