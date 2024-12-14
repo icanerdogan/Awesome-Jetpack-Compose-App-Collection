@@ -114,6 +114,14 @@ The repository includes applications of different difficulty levels, allowing de
 </details>
 
 <details open>
+  <summary><h3>JetMarvelComicsLibrary</h3></summary>
+  
+  JetMarvelComicsLibrary - 1            |  JetMarvelComicsLibrary - 2 |  JetMarvelComicsLibrary - 3
+  :-------------------------:|:-------------------------:|:-------------------------:
+  ![JetMarvelComicsLibrary - 1](https://github.com/user-attachments/assets/6977c63a-1242-441b-833d-5288d9305de7) | ![JetMarvelComicsLibrary - 2](https://github.com/user-attachments/assets/64a49b38-f7db-40ed-b358-6a7e31ebc730) | ![JetMarvelComicsLibrary - 3](https://github.com/user-attachments/assets/f03c26ce-7dc6-414b-b9ce-5fad9ffe0e64) 
+</details>
+
+<details open>
   <summary><h3>JetToDo</h3></summary>
   
   JetToDo - 1            |  JetToDo - 2
