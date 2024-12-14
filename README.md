@@ -26,6 +26,14 @@ The repository includes applications of different difficulty levels, allowing de
 </details>
 
 <details open>
+  <summary><h3>JetTipCalculator</h3></summary>
+  
+  JetTipCalculator - 1            |  JetTipCalculator - 2
+  :-------------------------:|:-------------------------:
+  ![JetTipCalculator - 1](https://github.com/user-attachments/assets/7acbeb93-f825-4066-b628-6d1f8ca04d76) | ![JetTipCalculator - 2](https://github.com/user-attachments/assets/81014773-741c-4829-b816-05471afc9e77)
+</details>
+
+<details open>
   <summary><h3>JetUnitConverter</h3></summary>
   
   JetUnitConverter - 1            |  JetUnitConverter - 2
