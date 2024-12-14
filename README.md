@@ -7,35 +7,75 @@ Welcome to the **JetpackComposeAppCollection** repository! 🚀 This repository 
 The repository includes applications of different difficulty levels, allowing developers to learn and explore the power of Jetpack Compose through hands-on examples.
 
 - **🟢 Beginner Apps**: Simple UI designs and core components to get started with Jetpack Compose.
-- **🔵 Intermediate Apps**: Apps that incorporate more complex features like navigation, state management, and API integration.
-- **🟣 Advanced Apps**: Advanced implementations demonstrating the use of custom UI components, performance optimization, and integration with other libraries.
 
-<!---
 <details>
-  <summary>🟢 Beginner Apps</summary>
+  <summary><h3>JetCalculator</h3></summary>
+  
+  JetCalculator - 1            |  JetCalculator - 2
+  :-------------------------:|:-------------------------:
+  ![JetCalculator - 1](https://github.com/user-attachments/assets/fdd29c6d-e844-4d75-8fd9-9f0dbfd8813c) | ![JetCalculator - 2](https://github.com/user-attachments/assets/c8432be4-2d9e-417c-923e-c2d5855d895d) |
+</details>
+
+<details>
+  <summary><h3>JetBasicMovieLibrary</h3></summary>
+  
+  JetBasicMovieLibrary - 1            |  JetBasicMovieLibrary - 2
+  :-------------------------:|:-------------------------:
+  ![JetBasicMovieLibrary - 1](https://github.com/user-attachments/assets/c074a85f-e3cb-4aee-ad2c-ad66b848e8b8) | ![JetBasicMovieLibrary - 2](https://github.com/user-attachments/assets/c56be7c0-ff59-456c-84b5-2f7649566407)
+</details>
+
+<details>
+  <summary><h3>JetMoneyCounter</h3></summary>
+  
+  JetMoneyCounter - 1            |  JetMoneyCounter - 2
+  :-------------------------:|:-------------------------:
+  ![JetMoneyCounter - 1](https://github.com/user-attachments/assets/c27750e4-b531-4a6e-a0f2-8baf8490ca9a) | ![JetMoneyCounter - 2](https://github.com/user-attachments/assets/45a5d145-7ccb-4ac4-a9bc-05b55d78dc74)
+</details>
+
+<details>
+  <summary><h3>JetBankDatabase</h3></summary>
+  
+  JetBankDatabase - 1            |  JetBankDatabase - 2
+  :-------------------------:|:-------------------------:
+  ![JetBankDatabase - 1](https://github.com/user-attachments/assets/710d66fd-e5ec-41a7-9b06-ec83aa2663f8) | ![JetBankDatabase - 2](https://github.com/user-attachments/assets/88e0487f-ce11-4ed4-8bda-051cd9b71e77) 
+</details>
+
+<details>
+  <summary><h3>JetContacts</h3></summary>
+  
+  JetContacts - 1            |  JetContacts - 2
+  :-------------------------:|:-------------------------:
+  ![JetContacts - 1](https://github.com/user-attachments/assets/ebb9e0e5-7dac-436e-bf85-d0510ab14fdb) | ![JetContacts - 2](https://github.com/user-attachments/assets/dd0b5fd1-1089-4b1e-a2b9-27b4b2a7abe7) 
+</details>
+
+- **🔵 Intermediate Apps**: Apps that incorporate more complex features like navigation, state management, and API integration.
+
+<details>
+  <summary><h3>JetCleanNote</h3></summary>
+  
+  JetCleanNote - 1            |  JetCleanNote - 2
+  :-------------------------:|:-------------------------:
+  ![JetCleanNote - 1](https://github.com/user-attachments/assets/41a5a803-802d-4f85-a56b-5b2486385d48) | ![JetCleanNote - 2](https://github.com/user-attachments/assets/4638e60d-7072-4d1d-933c-e0bb92a03747) 
+</details>
+
+<details>
+  <summary><h3>JetCryptoTrade</h3></summary>
+  
+  JetCryptoTrade - 1            |  JetCryptoTrade - 2
+  :-------------------------:|:-------------------------:
+  ![JetCryptoTrade - 1](https://github.com/user-attachments/assets/ea3efce5-63ac-43b2-8eda-b9415f6b7706) | ![JetCryptoTrade - 2](https://github.com/user-attachments/assets/981a5538-dcbf-47b2-810d-adb54246da73) 
+</details>
+
+- **🟣 Advanced Apps**: Advanced implementations demonstrating the use of custom UI components, performance optimization, and integration with other libraries.
+<!--
+<details>
+  <summary>🟣 Advanced Apps</summary>
   
   - **Counter App**: A simple app with increment and reset functionality to understand state management.
   - **Todo List**: A basic to-do list app demonstrating list rendering and user input handling.
   - **Basic Calculator**: A lightweight calculator showcasing user interaction with Jetpack Compose components.
 </details>
-
-<details>
-  <summary>🔵 Intermediate Apps</summary>
-  
-  - **Weather App**: Fetch and display real-time weather data using REST APIs.
-  - **Notes App**: A note-taking app with local database integration (Room) and CRUD operations.
-  - **E-Commerce UI**: A beautifully designed e-commerce app with multi-screen navigation and animations.
-</details>
-
-<details>
-  <summary>🟣 Advanced Apps</summary>
-  
-  - **News Aggregator**: An app that fetches and categorizes news articles using APIs, with offline support.
-  - **Fitness Tracker**: A fitness tracking app with sensor integration and advanced UI components.
-  - **Streaming Platform UI**: A Netflix-like UI with complex layouts, performance optimization, and dynamic data.
-</details>
 -->
-
 ## 🌟 Features
 
 - 🧩 Modern UI components powered by Jetpack Compose
