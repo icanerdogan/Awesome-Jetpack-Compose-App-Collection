@@ -153,7 +153,7 @@ To get started with the applications in this repository, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/icanerdogan/Awesome-Jetpack-Compose-App-Collection.git
+    git clone https://github.com/icanerdogan/Awesome-Jetpack-Compose-App-Samples.git
     ```
 2. **Open the project in Android Studio**:
     - Navigate to the project folder and open the `build.gradle` file to sync the project with the necessary dependencies.
