@@ -26,6 +26,14 @@ The repository includes applications of different difficulty levels, allowing de
 </details>
 
 <details open>
+  <summary><h3>JetUnitConverter</h3></summary>
+  
+  JetUnitConverter - 1            |  JetUnitConverter - 2
+  :-------------------------:|:-------------------------:
+  ![JetUnitConverter - 1](https://github.com/user-attachments/assets/1de2087e-e86f-4098-9f2d-e115184a42e7) | ![JetUnitConverter - 2](https://github.com/user-attachments/assets/7b8b12b5-d6e0-4ba6-ad5e-ddd8464beec7)
+</details>
+
+<details open>
   <summary><h3>JetMoneyCounter</h3></summary>
   
   JetMoneyCounter - 1            |  JetMoneyCounter - 2
