@@ -113,6 +113,14 @@ The repository includes applications of different difficulty levels, allowing de
   ![JetStockMarket - 1](https://github.com/user-attachments/assets/ff5483bf-a3d9-4954-a7ae-4a0e72587e36) | ![JetStockMarket - 2](https://github.com/user-attachments/assets/a6bbde42-0398-4981-9bf0-bd939f446a04) 
 </details>
 
+<details open>
+  <summary><h3>JetToDo</h3></summary>
+  
+  JetToDo - 1            |  JetToDo - 2
+  :-------------------------:|:-------------------------:
+  ![JetToDo - 1](https://github.com/user-attachments/assets/cc181331-c9da-409d-8558-1bcf63517619) | ![JetToDo - 2](https://github.com/user-attachments/assets/b1dae5ce-a7df-467b-81d6-2b32bc061bb8) 
+</details>
+
 <!---------------------------------------------------------------------------------------------------------->
 
 ## 🌟 Features
