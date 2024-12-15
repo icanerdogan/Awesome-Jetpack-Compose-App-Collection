@@ -137,6 +137,13 @@ The repository includes applications of different difficulty levels, allowing de
   ![JetToDo - 1](https://github.com/user-attachments/assets/cc181331-c9da-409d-8558-1bcf63517619) | ![JetToDo - 2](https://github.com/user-attachments/assets/b1dae5ce-a7df-467b-81d6-2b32bc061bb8) 
 </details>
 
+<details open>
+  <summary><h3>JetWeatherForecast</h3></summary>
+  
+  JetWeatherForecast - 1            |  JetWeatherForecast - 2
+  :-------------------------:|:-------------------------:
+  ![JetWeatherForecast - 1](https://github.com/user-attachments/assets/aa173eb1-747b-4529-ada4-687328aa1648) | ![JetWeatherForecast - 2](https://github.com/user-attachments/assets/57fcf84b-04c5-4705-9082-d2bfc6c77ee8) 
+</details>
 <!---------------------------------------------------------------------------------------------------------->
 
 ## 🌟 Features
